@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Mauricio-ZSDev 😁
 
  <div>
-   <a href="https://github.com/Mauricio-ZS">
+   <a href="https://github.com/mauricio-zs">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricio-zs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-zs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
